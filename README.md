@@ -9,13 +9,13 @@
 ## Experience
 
 **Sep 2023 – Oct 2025** — **American University of Sharjah**, Sharjah, UAE  
-*Researcher · Investigating Fake News Detection Using BERT/RoBERTa LLMs (NLP)*
+*Data Science Researcher - Fake News Detection Using Transformer Models (NLP)*
 
 **Dec 2022 – Jun 2025** — **American University of Sharjah**, Sharjah, UAE  
-*Researcher · IVEMPS: IoT-Based Vehicle Emission Monitoring and Prediction System (ML • Time-Series)*
+*Data Science Researcher - Vehicle Emission Monitoring & Time Series Forecasting (ML • Time-Series)*
 
 **Mar 2023 – Jun 2024** — **American University of Sharjah**, Sharjah, UAE  
-*Researcher · FPGA Digitization of Radar Signals (DSP)*
+*FPGA/Signal Processing Researcher - Radar Signal Digitization (DSP)*
 
 **Jun 2023 – Aug 2023** — **Interel**, Dubai, UAE  
 *System Administration Intern*
